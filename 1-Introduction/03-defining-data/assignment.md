@@ -1,0 +1,65 @@
+# Clasificación de Conjuntos de Datos
+
+## Instrucciones
+
+Sigue las indicaciones de esta tarea para identificar y clasificar los datos con uno de cada uno de los siguientes tipos de datos:
+
+**Tipos de Estructura**: Estructurado, Semi-Estructurado o No Estructurado
+
+**Tipos de Valor**: Cualitativo o Cuantitativo 
+
+**Tipos de Fuente**: Primaria o Secundaria
+
+1. Una empresa ha sido adquirida y ahora tiene una empresa matriz. Los científicos de datos han recibido una hoja de cálculo con números de teléfono de clientes de la empresa matriz.
+
+Tipo de Estructura:
+
+Tipo de Valor:
+
+Tipo de Fuente:
+
+---
+
+2. Un reloj inteligente ha estado recopilando datos de frecuencia cardíaca de su usuario, y los datos sin procesar están en formato JSON.
+
+Tipo de Estructura:
+
+Tipo de Valor:
+
+Tipo de Fuente:
+
+---
+
+3. Una encuesta laboral sobre la moral de los empleados que está almacenada en un archivo CSV.
+
+Tipo de Estructura:
+
+Tipo de Valor:
+
+Tipo de Fuente:
+
+---
+
+4. Astrofísicos están accediendo a una base de datos de galaxias que ha sido recopilada por una sonda espacial. Los datos contienen el número de planetas dentro de cada galaxia.
+
+Tipo de Estructura:
+
+Tipo de Valor:
+
+Tipo de Fuente:
+
+---
+
+5. Una aplicación de finanzas personales utiliza APIs para conectarse a las cuentas financieras de un usuario con el fin de calcular su patrimonio neto. Pueden ver todas sus transacciones en un formato de filas y columnas que se asemeja a una hoja de cálculo.
+
+Tipo de Estructura:
+
+Tipo de Valor:
+
+Tipo de Fuente:
+
+## Rúbrica
+
+Ejemplar | Adecuado | Necesita Mejorar
+--- | --- | --- |
+Identifica correctamente todos los tipos de estructura, valor y fuente | Identifica correctamente 3 tipos de estructura, valor y fuente | Identifica correctamente 2 o menos tipos de estructura, valor y fuente |

@@ -1,0 +1,11 @@
+# Proyecto de Ciencia de Datos usando Azure ML SDK
+
+## Instrucciones
+
+Vimos cómo usar la plataforma de Azure ML para entrenar, implementar y consumir un modelo con Azure ML SDK. Ahora busca algunos datos que puedas usar para entrenar otro modelo, implementarlo y consumirlo. Puedes buscar conjuntos de datos en [Kaggle](https://kaggle.com) y [Azure Open Datasets](https://azure.microsoft.com/services/open-datasets/catalog?WT.mc_id=academic-77958-bethanycheum&ocid=AID3041109).
+
+## Criterios de evaluación
+
+| Ejemplar | Adecuado | Necesita Mejorar |
+|----------|----------|------------------|
+|Al configurar AutoML, revisaste la documentación del SDK para ver qué parámetros podías usar. Realizaste un entrenamiento en un conjunto de datos a través de AutoML usando Azure ML SDK y verificaste las explicaciones del modelo. Implementaste el mejor modelo y pudiste consumirlo a través de Azure ML SDK. | Realizaste un entrenamiento en un conjunto de datos a través de AutoML usando Azure ML SDK y verificaste las explicaciones del modelo. Implementaste el mejor modelo y pudiste consumirlo a través de Azure ML SDK. | Realizaste un entrenamiento en un conjunto de datos a través de AutoML usando Azure ML SDK. Implementaste el mejor modelo y pudiste consumirlo a través de Azure ML SDK. |

@@ -1,0 +1,11 @@
+# Sumérgete en la colmena
+
+## Instrucciones
+
+En esta lección comenzaste a explorar un conjunto de datos sobre las abejas y su producción de miel a lo largo de un período de tiempo que registró pérdidas en la población de colonias de abejas en general. Profundiza en este conjunto de datos y crea un cuaderno que pueda contar la historia de la salud de la población de abejas, estado por estado y año por año. ¿Descubres algo interesante en este conjunto de datos?
+
+## Criterios de evaluación
+
+| Ejemplar                                                                                                                                                 | Adecuado                                 | Necesita Mejorar                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| Se presenta un cuaderno con una historia anotada con al menos tres gráficos diferentes que muestran aspectos del conjunto de datos, estado por estado y año por año | Al cuaderno le falta uno de estos elementos | Al cuaderno le faltan dos de estos elementos |
